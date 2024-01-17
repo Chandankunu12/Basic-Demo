@@ -1,4 +1,4 @@
 # Basic-Demo
 This is my first Git Repository.
 <br>
-Author - Chandan Kumar
+Author - Chandan Kumar(Software Developer)
